@@ -1,0 +1,2 @@
+TARGET = brainfuck
+COMPILER_FLAGS += -Wno-unused-parameter
